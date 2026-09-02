@@ -1,8 +1,8 @@
 #1
-print(" Maayan ")
+print("yuval")
 
 #2
-print(" Rabi David Elkayam ")
+print("dog")
 
 
 
