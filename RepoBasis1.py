@@ -2,7 +2,7 @@
 print("yuval")
 
 #2
-print("dog")
+print("Ladybug")
 
 
 
